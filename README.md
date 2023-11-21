@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Evan Ng
+### Hi there, my name is Evan Ng
 
 <!--
 **evanng8/evanng8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
